@@ -1,0 +1,60 @@
+table {
+    font-size: x-large;
+    height: 200px;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+
+}
+
+.header {
+    background-color: rgb(136, 2, 2);
+    color: rgb(135, 206, 235);
+}
+
+body {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: aliceblue;
+    height: 400px;
+    width: 80%;
+    margin-bottom: 500px;
+
+}
+
+td{
+   margin: 75px; 
+   background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
